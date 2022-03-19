@@ -1,6 +1,7 @@
 A Glimpse into my journey
 
-Covid-19 Vaccination rate DashboardCovid19 Dashboard.jpeg
+Covid-19 Vaccination rate Dashboard
+
 
  
 DESCRIPTION OF THE CODING USED IN PYTHON:
