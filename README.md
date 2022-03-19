@@ -7,9 +7,9 @@ As a Durham College Scholar, I have worked on following projects:
 
 **This dashboard helps the government or other health institutions to visualise a single view of Vaccination rate in various nations and how many more vaccines are needed to create a healthy nation.The tools used in this reporting mechanics are as follows:
 
-#**Microsoft Excel
-#Tableau**
-**
+#Microsoft Excel
+
+#Tableau
 
 
 **Executive Summary of Job Revenue in Canada**
