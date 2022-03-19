@@ -1,6 +1,6 @@
 **A Glimpse into my journey**
 
-A Durham College Scholar
+As a Durham College Scholar, I have worked on following projects:
 
 
 **Covid-19 Vaccination rate Dashboard**
@@ -10,6 +10,8 @@ A Durham College Scholar
 #**Microsoft Excel
 #Tableau**
 **
+
+
 **Executive Summary of Job Revenue in Canada**
 
 The Executive summary presented here would help everyone to know about job availability in various provinces of Canada and also there are some reccomendations for the Employment and Social Development Canada to increase  the job revenue as well as no. of employments for the individuals.The tools used here are as follows
