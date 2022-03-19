@@ -1,6 +1,12 @@
-A Glimpse into my journey
+**A Glimpse into my journey**
 
-Covid-19 Vaccination rate Dashboard
+**Covid-19 Vaccination rate Dashboard**
+This dashboard helps the government or other health institutions to visualise a single view of Vaccination rate in various nations and how many more vaccines are needed to create a healthy nation.The tools used in this reporting mechanics are as follows:
+
+#Microsoft Excel
+#Tableau
+
+
 
 
  
