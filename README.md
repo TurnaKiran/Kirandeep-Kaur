@@ -1,4 +1,4 @@
-# DATA1202_ASSIGNMENT 5
+A Glimpse into my journey
  
 DESCRIPTION OF THE CODING USED IN PYTHON:
 •	Firstly, I have imported three libraries pandas, numpy and matplotlib.pyplot in the python
