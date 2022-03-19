@@ -1,4 +1,6 @@
 A Glimpse into my journey
+
+Covid-19 Vaccination rate Dashboard
  
 DESCRIPTION OF THE CODING USED IN PYTHON:
 •	Firstly, I have imported three libraries pandas, numpy and matplotlib.pyplot in the python
@@ -6,7 +8,7 @@ DESCRIPTION OF THE CODING USED IN PYTHON:
 •	Then, I imported that dataset into python by making sure that it would be imported into python properly as further coding is not possible without importing it properly into python. So, it is the most important step.
 
 1.	Then I create a function inside which I would call the csv file. 
-2.	I sorted the data and then extracted the first 1000 rows.
+2.	I sorted the data and then extraced the first 1000 rows.
 3.	I included and made a bar diagram while printing.
 4.	I then called the csv file into the function.
 5.	The final step is to print the new csv file
