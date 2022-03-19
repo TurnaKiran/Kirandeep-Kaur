@@ -1,6 +1,7 @@
 A Glimpse into my journey
 
-Covid-19 Vaccination rate Dashboard
+Covid-19 Vaccination rate DashboardCovid19 Dashboard.jpeg
+
  
 DESCRIPTION OF THE CODING USED IN PYTHON:
 •	Firstly, I have imported three libraries pandas, numpy and matplotlib.pyplot in the python
