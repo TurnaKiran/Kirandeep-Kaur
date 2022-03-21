@@ -1,4 +1,4 @@
-#A Glimpse into my journey
+# A Glimpse into my journey
 
 As a Durham College Scholar, I have worked on following projects:
 
