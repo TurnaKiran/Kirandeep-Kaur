@@ -2,7 +2,7 @@
 
 As a Durham College Scholar, I have worked on following projects:
 
-
+[Kiran](https://sites.google.com/d/1F9bCNgQFg0MxwmF2VLM3KV7N65zDf3mM/p/1laJWXfEO9HbWSK3267U9Dyd4RZE-bShL/edit)
 **Covid-19 Vaccination rate Dashboard**
 
 This dashboard helps the government or other health institutions to visualise a single view of Vaccination rate in various nations and how many more vaccines are needed to create a healthy nation.The tools used in this reporting mechanics are as follows:
