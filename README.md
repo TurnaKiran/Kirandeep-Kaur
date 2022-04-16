@@ -1,5 +1,7 @@
 # A Glimpse into my journey
 [KIRAN PORTFOLIO](https://sites.google.com/d/1DUEoBtJbR_pWarbcXHoaeFHXi4cIv7kI/p/18nz5vKsVOv_SBEQn28Fnbi8J8jy25Gbn/edit)
+![image](https://user-images.githubusercontent.com/95443992/163659557-dcb098c9-230e-4273-8da6-3669aa338fe2.png)
+
 
 As a Durham College Scholar, I have worked on following projects:
 
